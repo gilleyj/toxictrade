@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a640b7c365c970742baae5a93d6b39f5, type: 3}
+  m_Name: DefaultStationsData
+  m_EditorClassIdentifier: 
+  stations:
+  - name: 'station #0'
+    position: {x: -248.6958, y: -96.16396, z: 68.73089}
+    rotation: {x: -31.006058, y: 65.67455, z: -146.26138}
+  - name: 'station #1'
+    position: {x: -28.736977, y: -179.1557, z: -194.00449}
+    rotation: {x: 112.15869, y: 61.481243, z: 165.08804}
+  - name: 'station #2'
+    position: {x: -169.65765, y: 132.40593, z: 245.53238}
+    rotation: {x: 119.33328, y: -35.26094, z: -175.47131}
+  - name: 'station #3'
+    position: {x: -195.99301, y: 240.07172, z: -221.38596}
+    rotation: {x: 143.62213, y: -20.035263, z: 6.904709}
+  - name: 'station #4'
+    position: {x: 98.28805, y: -140.02908, z: -169.05774}
+    rotation: {x: -2.9120483, y: -12.662155, z: -133.54779}
+  - name: 'station #5'
+    position: {x: -27.514435, y: 68.566734, z: 41.15119}
+    rotation: {x: 137.15948, y: 87.70261, z: 157.94727}
+  - name: 'station #6'
+    position: {x: 172.73663, y: 221.78453, z: 118.38692}
+    rotation: {x: 43.38379, y: 151.45523, z: 25.942642}
+  - name: 'station #7'
+    position: {x: -79.90447, y: 180.79883, z: 222.29086}
+    rotation: {x: 8.587173, y: 64.492615, z: 69.46535}
